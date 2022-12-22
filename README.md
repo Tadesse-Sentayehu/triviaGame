@@ -3,7 +3,7 @@ by
 
        Name ---------- Sentayehu Tadesse
        Id ----------- 342650983
-       Date ---------- 07/12/2022
+       Date ---------- 21/12/2022
 
         Trivia/Quiz mobile games are one of the many genres of mobile app games.
         If we
