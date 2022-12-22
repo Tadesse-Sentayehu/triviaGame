@@ -69,8 +69,6 @@ class Football(Bible):
             print("you got ", str(score), "/", "6", "correct")
 
 
-import pyodbc
-import pyodbc
 
 conn = pyodbc.connect('Driver={SQL Server};'
                       'Server=LAPTOP-P5U7S83P;'
